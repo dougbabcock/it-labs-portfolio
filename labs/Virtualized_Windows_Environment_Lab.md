@@ -4,7 +4,7 @@
 **Date:** 2025-11-01  
 **Lab focus:** Virtualized Windows environment setup and connectivity verification
 
-## Skim Summary
+## Summary
 
 Built a small VirtualBox-based Windows lab environment for a fictional healthcare startup, Evergreen Diagnostics. The environment included one Windows Server 2022 system and two Windows 11 Enterprise workstations on a NAT network. The lab demonstrated operating-system installation, virtual machine cloning, IP/network configuration, and connectivity verification between systems and the internet.
 
@@ -62,12 +62,8 @@ Additional ping tests were performed between `ED-PC01`, `ED-PC02`, `ED-SRV01`, t
 - Basic Windows lab documentation
 - Screenshot-based evidence collection
 
-## Portfolio Value
-
-This lab shows hands-on ability to build a controlled Windows infrastructure lab from scratch, verify network connectivity, and document implementation steps clearly. It supports entry-level IT support, help desk, desktop support, junior systems administration, and networking roles.
-
 ## Source Document
 
 Full source document with evidence/screenshots:
 
-- `Virtualized_Windows_Environment_Documented_Lab.docx`
+- `Virtualized_Windows_Environment_Lab.docx`

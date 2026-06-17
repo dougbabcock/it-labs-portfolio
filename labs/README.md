@@ -20,6 +20,6 @@ Skimmable summaries and source documents for Doug Babcock's IT support / systems
 
 The original `.docx` files are included alongside these Markdown summaries for full evidence/screenshots and portfolio use.
 
-- `source-documents/Virtualized_Windows_Environment_Documented_Lab.docx`
-- `source-documents/Windows_Group_Policy_Security_Documented_Lab.docx`
-- `source-documents/Software_Installation_Remote_User_Support_Documented_Lab.docx`
+- `source-documents/Virtualized_Windows_Environment_Lab.docx`
+- `source-documents/Windows_Group_Policy_Security_Lab.docx`
+- `source-documents/Software_Installation_Remote_User_Support_Lab.docx`

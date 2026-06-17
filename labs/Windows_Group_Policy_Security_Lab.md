@@ -4,7 +4,7 @@
 **Date:** 2025-11-16  
 **Lab focus:** Securing Windows using Group Policy
 
-## Skim Summary
+## Summary
 
 Implemented Group Policy configurations to strengthen security and standardize a Windows domain environment for a fictional organization, Evergreen Diagnostics. The lab translated compliance-style requirements into centrally managed domain policies using Group Policy Management Console. The work included password and account lockout controls, a domain logon security message, corporate desktop branding, and verification using `gpupdate` and `gpresult`.
 
@@ -85,12 +85,8 @@ The source lab document references screenshots showing:
 - Policy deployment and verification with `gpupdate` and `gpresult`
 - Evidence-based lab documentation
 
-## Portfolio Value
-
-This lab demonstrates practical Windows administration and security-policy implementation. It is relevant to help desk, desktop support, junior systems administrator, IT support technician, and entry-level cybersecurity roles that require familiarity with Active Directory-style policy management and endpoint standardization.
-
 ## Source Document
 
 Full source document with evidence/screenshots:
 
-- `Windows_Group_Policy_Security_Documented_Lab.docx`
+- `Windows_Group_Policy_Security_Lab.docx`

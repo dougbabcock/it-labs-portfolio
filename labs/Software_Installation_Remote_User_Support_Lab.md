@@ -4,7 +4,7 @@
 **Date:** 2025-11-16  
 **Lab focus:** Software installation and supporting users remotely
 
-## Skim Summary
+## Summary
 
 Created a centralized software repository on a Windows server and used Remote Desktop to support a client workstation. The lab demonstrated safe software sourcing, shared network repository access, remote support workflow, installation of approved applications, and post-installation verification.
 
@@ -93,12 +93,8 @@ The source lab document references screenshots showing:
 - Post-installation verification
 - User-support documentation
 
-## Portfolio Value
-
-This lab demonstrates practical help desk and desktop support skills: remote user support, software installation, shared repository access, verification, and documentation. It is relevant to IT support technician, help desk, desktop support, field support, and junior systems roles.
-
 ## Source Document
 
 Full source document with evidence/screenshots:
 
-- `Software_Installation_Remote_User_Support_Documented_Lab.docx`
+- `Software_Installation_Remote_User_Support_Lab.docx`
