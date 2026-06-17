@@ -1,4 +1,4 @@
-# Windows Group Policy Security Documented Lab
+# Windows Group Policy Security Lab
 
 **Prepared by:** Douglas Babcock  
 **Date:** 2025-11-16  

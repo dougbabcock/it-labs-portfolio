@@ -1,4 +1,4 @@
-# Software Installation and Remote User Support Documented Lab
+# Software Installation and Remote User Support Lab
 
 **Prepared by:** Douglas Babcock  
 **Date:** 2025-11-16  

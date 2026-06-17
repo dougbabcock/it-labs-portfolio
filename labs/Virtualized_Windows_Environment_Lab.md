@@ -1,4 +1,4 @@
-# Virtualized Windows Environment Documented Lab
+# Virtualized Windows Environment Lab
 
 **Prepared by:** Douglas Babcock  
 **Date:** 2025-11-01  
